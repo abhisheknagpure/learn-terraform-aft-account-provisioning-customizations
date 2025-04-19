@@ -3,7 +3,7 @@
     "States": {
       "Pass": {
         "Type": "Pass",
-        "End": false
+        "End": true
       }
     }
 }
